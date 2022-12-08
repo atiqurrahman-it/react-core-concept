@@ -96,7 +96,7 @@ function MovieCounter(){
 function MovieDisplay(props){
   return (
     <div>
-      <h3> Movie i Hive acpet {props.movie} </h3>
+      <h3> Movies I Have acted {props.movie} </h3>
     </div>
   );
 
